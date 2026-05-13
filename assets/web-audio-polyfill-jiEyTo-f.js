@@ -1,1 +1,0 @@
-import{l as t}from"./index-CKCf0NG2.js";const o=globalThis;await t("/runtime/web-audio-polyfill.min.js",()=>!!o.AudioContext);const i=o.AudioContext||o.webkitAudioContext,e={AudioContext:i};export{i as AudioContext,e as default};
