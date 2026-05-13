@@ -2,7 +2,6 @@
   "entries": [
     "ra2.csf",
     "art.ini",
-    "werhd-sound.ini",
     "modcd.ini",
     "rules.ini",
     "Ecache01.mix",
@@ -16,7 +15,6 @@
   "checksums": {
     "ra2.csf": 3771269777,
     "art.ini": 3850829420,
-    "werhd-sound.ini": 1638490277,
     "modcd.ini": 2492488508,
     "rules.ini": 2800097175,
     "Ecache01.mix": 2407072292,
